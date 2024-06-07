@@ -1,0 +1,11 @@
+.review {
+    display: block;
+    text-align: justify;
+    max-width: 40rem;
+    margin: 0 auto;
+}
+
+
+h1 {
+   margin: 1em;
+}

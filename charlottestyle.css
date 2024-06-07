@@ -1,0 +1,61 @@
+h1 {
+    color: palevioletred;
+    text-align: center;
+    font-size: 4em;
+    margin: 0;
+}
+
+h1.andlongago {
+    color: palevioletred;
+    text-align:center;
+    font-size:3em;
+}
+
+h2 {
+    color: palevioletred;
+    text-align: center;
+}
+
+h3 {
+    color: palevioletred;
+    text-align: center;
+
+    a:link, a:visited {
+        color: palevioletred;
+    }
+
+    a:hover, a:active {
+        color: #AF5A76;
+    }
+
+}
+
+p {
+    text-align: center;
+}
+
+div.list-cont {
+    text-align: center;
+}
+
+ul.mylist {
+    display: inline-block;
+    text-align: left;
+    max-width: 20rem;
+
+    a:link {
+        color: palevioletred;
+    }
+
+    a:visited {
+        color: #8C485E;
+    }
+
+    a:hover, a:active {
+        color: #AF5A76;
+    }
+}
+
+body {
+    background-color: floralwhite;
+}

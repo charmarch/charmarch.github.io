@@ -1,0 +1,52 @@
+.review {
+    display: block;
+    text-align: justify;
+    max-width: 40rem;
+    margin: 0 auto;
+    scroll-margin-top: 7em;
+
+    .title {
+        color: palevioletred;
+    }
+    .author {
+        color: palevioletred;
+    }
+}
+
+.page_header {
+    position: sticky;
+    text-align: center;
+    top: 0;
+    color: palevioletred;
+    background-color: floralwhite;
+    font-size: 1.2em;
+    padding: 0.0005em;
+
+
+    a:link, a:visited {
+        color: palevioletred;
+        margin: 1.2em;
+        text-decoration: none;
+    }
+
+    a:hover {
+        color: #AF5A76;
+    }
+
+    a:active {
+        color: pink;
+    }
+
+}
+
+
+.content .header {
+   margin: 1em;
+   position: sticky;
+   top: 1em;
+   color: palevioletred;
+}
+
+body {
+    background-color: floralwhite;
+}
