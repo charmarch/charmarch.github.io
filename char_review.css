@@ -43,8 +43,6 @@
 .content .header {
    margin: 1em;
    position: sticky;
-   top: 2.5em;
-   background: floralwhite;
    top: 1em;
    color: palevioletred;
 }
